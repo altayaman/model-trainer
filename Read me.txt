@@ -1,0 +1,5 @@
+What file contains:
+I created two seperate python codes where one creates ML model and the other one is making predictions using the model produced. Names of the python codes are self-descriptive.
+
+Advantages of the approach:
+Advantage of this is that I created them for non-ML people in my team. Another advantage is that the python code that creates a trained ML model exports it as one single file that has everything in it, e.g. all other data needed except trained model. And once the model is trained it can be saved and used as many as one wants and also can share with others that will save time for other team memebers.
